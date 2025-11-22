@@ -1,4 +1,4 @@
-![Greeting](/greeting.gif)
+![Greeting](/greeting2.gif)
 
 # 💫 About Me:
 <br>I'm a fourth-year Software & Electronic Engineering student at Atlantic Technological University, Galway, passionate about technology and building meaningful solutions.<br>I've worked across both hardware and software, with experience spanning from embedded systems, to full-stack development.<br>I also have experience as a Software Engineer at Fidelity Investments, and a front end developer through side projects!<br><br>🛠️Some of the Projects I've worked on:<br>> 🔗 Spreadit - CICD Based platform for college students to connect and get help from each other.<br>> 🏍️ Smart Motorcycle System - IoT project using an ESP32 to integrate sensors to a dashboard.<br>> 📊 D3.js Animated Visualizations - Used for enterprise reporting and data simulations.<br><br>⚡ A little More About Me:<br>>💡I’m passionate about learning, solving problems, and working with teams to drive innovative solutions.<br>>🧠I have a love for music, enjoy exploring new technologies, and always seek opportunities for personal and professional growth.<br><br><br>
